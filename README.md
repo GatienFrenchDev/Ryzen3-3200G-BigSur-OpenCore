@@ -1,5 +1,5 @@
 # Ryzen 3 3200G | OpenCore | BigSur (11)
-This repo contains the EFI folder to install macOS on a build with a Ryzen 3 3200G and a NVIDIA GT630
+This repo contains the EFI folder to install macOS on a build with a Ryzen 3 3200G and a NVIDIA GT630. The configuration folder was created on March 11, 2023 with the Release version 0.9 of OpenCore. I had a mic issue with Discord which I was able to fix by following the directions in the following repo: t: https://github.com/Pavo-IM/amd_hackintosh_discord_fix)
 
 ![image](https://user-images.githubusercontent.com/80203026/224507385-c41a9581-08a5-4b4f-918e-f6798053a913.png)
 
@@ -12,8 +12,7 @@ This repo contains the EFI folder to install macOS on a build with a Ryzen 3 320
 # Bios settings
 
 <b>Security</b>
-- `Security Chip` **Disabled**
-- `iGPU` **Enabled**
+- `iGPU` **Disabled**
 - `Secure Boot -> Secure Boot` **Disabled**
 - `Serial Port COM` **Disabled**
 
