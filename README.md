@@ -6,6 +6,7 @@ This repo contains the EFI folder to install macOS on a build with a Ryzen 3 320
 # Build's spec
 - <b>CPU</b>: AMD Ryzen 3 3200G
 - <b>GPU</b>: NVIDIA GT630 (GK 208)
+- <b>MOBO</b> : MSI B450M Pro-M2 MAX
 - <b>RAM</b>: 8 GB DDR4
 - <b>Screen</b>: 21.5" (1920x1080)
 
@@ -36,4 +37,4 @@ I had a mic issue with Discord which I was able to fix by following the directio
 - [x] Sleep / Wake (lid sleep and lid wake) (works for me you can try for yourself)
 
 # What's not working ⚠️
-- [x] Not All USB ports
+- [x] Not All USB ports (i should do a USB mapping)
